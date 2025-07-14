@@ -1,4 +1,4 @@
-Modelo usado: Claude-4-sonnet
+Modelo usado: Claude-4-sonnet dentro de Cursor
 
 # Prompt 1: Generación de user stories
 
